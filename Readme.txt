@@ -1,4 +1,7 @@
-                       Pharmacy_Drug_Store_Manager
+                       #Pharmacy_Drug_Store_Manager
+
+
+
                              USER TYPE
    admin
 //The File are located at Pharmacy_Drug_Store_Manager\Manager
